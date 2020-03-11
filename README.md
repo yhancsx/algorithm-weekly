@@ -2,18 +2,18 @@
 
 ## 03.06
 * [프로그래머스 : 정수삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)
-* [Leetcode : Distance between bus stops](https://leetcode.com/problems/distance-between-bus-stops/)
+* <strike>[Leetcode : Distance between bus stops](https://leetcode.com/problems/distance-between-bus-stops/)</strike>
 * [Leetcode : Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)
 
 ## 02.28
 * [프로그래머스 : 카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829)
 * [Leetcode : Flood fill](https://leetcode.com/problems/flood-fill/)
-* [Leetcode : Minimize malware spread II](https://leetcode.com/problems/minimize-malware-spread-ii/)
+* [Leetcode : Minimize malware spread II](https://leetcode.com/problems/minimize-malware-spread-ii/) 
 
 ## 02.21
 * [프로그래머스 : 단어퍼즐](https://programmers.co.kr/learn/courses/30/lessons/12983)
-* [Leetcode : Find words that can be formed by characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)
-* [Leetcode : Longest String Chain](https://leetcode.com/problems/longest-string-chain/)
+* <strike>[Leetcode : Find words that can be formed by characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)</strike>
+* [Leetcode : Longest String Chain](https://leetcode.com/problems/longest-string-chain/) -> 다시풀기
 
 ## 02.14
 * [프로그래머스 : 줄서는 방법](https://programmers.co.kr/learn/courses/30/lessons/12936)

@@ -7,7 +7,7 @@
 
 ## 02.28
 * [프로그래머스 : 카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829)
-* [Leetcode : Flood fill](https://leetcode.com/problems/flood-fill/)
+* <strike>[Leetcode : Flood fill](https://leetcode.com/problems/flood-fill/)</strike>
 * [Leetcode : Minimize malware spread II](https://leetcode.com/problems/minimize-malware-spread-ii/) 
 
 ## 02.21

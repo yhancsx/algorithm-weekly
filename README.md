@@ -2,8 +2,8 @@
 
 ## 03.14
 * [프로그래머스 : 예산](https://programmers.co.kr/learn/courses/30/lessons/43237)
-* [Leetcode : Search insert position](https://leetcode.com/problems/search-insert-position/)
-* [Leetcode : Search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+* <strike>[Leetcode : Search insert position](https://leetcode.com/problems/search-insert-position/)</strike>
+* <strike>[Leetcode : Search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/)</strike>
 
 ## 03.06
 * [프로그래머스 : 정수삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)
@@ -53,7 +53,7 @@
 
 ## 12.28
 * [프로그래머스 : 올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)
-* [Leetcode : Valid anagram](https://leetcode.com/problems/valid-anagram/)
+* <strike>[Leetcode : Valid anagram](https://leetcode.com/problems/valid-anagram/)</strike>
 * [Leetcode : Validate IP Address](https://leetcode.com/problems/validate-ip-address/)
 
 ## 12.14

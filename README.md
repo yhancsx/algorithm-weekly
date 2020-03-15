@@ -22,34 +22,34 @@
 
 ## 02.14
 * [프로그래머스 : 줄서는 방법](https://programmers.co.kr/learn/courses/30/lessons/12936)
-* [Leetcode : Is subsequence](https://leetcode.com/problems/is-subsequence/)
-* [Leetcode : Longest common subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+* <strike>[Leetcode : Is subsequence](https://leetcode.com/problems/is-subsequence/)</strike>
+* <strike>[Leetcode : Longest common subsequence](https://leetcode.com/problems/longest-common-subsequence/)</strike>
 
 ## 02.07
 * [프로그래머스 : 도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897)
-* [Leetcode : House robber](https://leetcode.com/problems/house-robber/)
-* [Leetcode : House robber ii](https://leetcode.com/problems/house-robber-ii/)
+* <strike>[Leetcode : House robber](https://leetcode.com/problems/house-robber/)</strike>
+* <strike>[Leetcode : House robber ii](https://leetcode.com/problems/house-robber-ii/)</strike>
 
 ## 02.01
 * [프로그래머스 : 멀리뛰기](https://programmers.co.kr/learn/challenges)
-* [Leetcode : Climbing stairs](https://leetcode.com/problems/climbing-stairs/)
-* [Leetcode : Min cost climbing stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+* <strike>[Leetcode : Climbing stairs](https://leetcode.com/problems/climbing-stairs/)</strike>
+* <strike>[Leetcode : Min cost climbing stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)</strike>
 
 ## 01.18
 * [프로그래머스 : 최고의 집합](https://programmers.co.kr/learn/courses/30/lessons/12938)
-* [Leetcode : Reverse linked list](https://leetcode.com/problems/reverse-linked-list/)
-* [Leetcode : Reorder list](https://leetcode.com/problems/reorder-list/)
+* <strike>[Leetcode : Reverse linked list](https://leetcode.com/problems/reverse-linked-list/)</strike>
+* <strike>[Leetcode : Reorder list](https://leetcode.com/problems/reorder-list/)</strike>
 * [Leetcode : Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists)
 
 ## 01.11
 * [프로그래머스 : 문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
-* [Leetcode : Rotate Array](https://leetcode.com/problems/rotate-array/)
-* [Leetcode : Find minimum in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+* <strike>[Leetcode : Rotate Array](https://leetcode.com/problems/rotate-array/)</strike>
+* <strike>[Leetcode : Find minimum in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)</strike>
 
 ## 01.04
 * [프로그래머스 : 가장 긴 팰린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904)
-* [Leetcode : Valid palindrome ii](https://leetcode.com/problems/valid-palindrome-ii/)
-* [LeetCode : Longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring/)
+* <strike>[Leetcode : Valid palindrome ii](https://leetcode.com/problems/valid-palindrome-ii/)</strike>
+* [LeetCode : Longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring/) -> 다시풀기
 
 ## 12.28
 * [프로그래머스 : 올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)
@@ -58,7 +58,7 @@
 
 ## 12.14
 * [프로그래머스 : 타일장식물](https://programmers.co.kr/learn/courses/30/lessons/43104)
-* [Leetcode : House robber](https://leetcode.com/problems/house-robber/)
+* <strike>[Leetcode : House robber](https://leetcode.com/problems/house-robber/)</strike>
 * [Leetcode : Maximum sum of 3 non overlapping subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/)
 
 ## 12.07

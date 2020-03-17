@@ -68,7 +68,7 @@
 
 ## 11.29
 * [프로그래머스 : 영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)
-* [Leetcode : Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
+* <strike>[Leetcode : Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)</strike>
 * <strike>[Leetcode : Group Anagrams](https://leetcode.com/problems/group-anagrams)</strike>
 
 ## 11.23
@@ -78,8 +78,8 @@
 
 ## 11.16
 * [프로그래머스 : 단어변환](https://programmers.co.kr/learn/courses/30/lessons/43163)
-* [Leetcode : Buddy Strings](https://leetcode.com/problems/buddy-strings/)
-* [Leetcode : Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)
+* <strike>[Leetcode : Buddy Strings](https://leetcode.com/problems/buddy-strings/)</strike>
+* [Leetcode : Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) -> 다시풀기
 
 ## 11.09
 * [프로그래머스 : 타켓넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) 
@@ -89,11 +89,11 @@
 ## 11.02
 * [프로그래머스 : K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)
 * [Leetcode : Relative Sort Array](https://leetcode.com/problems/relative-sort-array)
-* [Leetcode : K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+* <strike>[Leetcode : K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)</strike>
 
 ## 10.26
 * [프로그래머스 : 완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
-* [Leetcode : Top k frequent elements](https://leetcode.com/problems/top-k-frequent-elements/)
+* <strike>[Leetcode : Top k frequent elements](https://leetcode.com/problems/top-k-frequent-elements/)</strike>
 
 ## 10.19
 * [merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/)

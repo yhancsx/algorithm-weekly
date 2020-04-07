@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트 
 
+## 04.04
+* [프로그래머스 : 크레인 인형 뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)
+* <strike>[Leetcode : Container with most water](https://leetcode.com/problems/container-with-most-water/)</strike>
+* [Leetcode : Largest rectangle in histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) -> 다시풀기
+
 ## 03.28
 * [프로그래머스 : 무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891)
 * <strike>[Leetcode : Two sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)</strike>

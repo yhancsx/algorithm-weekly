@@ -1,5 +1,6 @@
 '''
 다시보기
+leetcode 234
 '''
 
 class Solution:
@@ -19,7 +20,11 @@ class Solution:
 
         while fast and fast.next:
             fast = fast.next.next
-            rev, rev.next, slow = slow, rev, slow.next
+            # rev, rev.next, slow = slow, rev, slow.next
+            # n = slow.next
+            # slow.next = rev
+            # rev = slow
+            # slow = n
 
         if fast:
             slow = slow.next

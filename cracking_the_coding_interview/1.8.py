@@ -1,3 +1,6 @@
+'''
+leetcode 73
+'''
 class Solution:
     def setZeroes(self, matrix: List[List[int]]) -> None:
         """
@@ -18,7 +21,7 @@ class Solution:
             for i in range(len(matrix)):
                 matrix[i][y] = 0
 
-    def setZeroes(self, matrix: List[List[int]]) -> None:
+    def setZeroes2(self, matrix: List[List[int]]) -> None:
         if len(matrix) == 0: return matrix
 
         zeroFirstRow = 0
